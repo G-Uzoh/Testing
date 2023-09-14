@@ -1,7 +1,7 @@
 # Testing project to handle conflicts in GitHub
 
 - First, I created a new GitHub repository
-- Second, I created a local folder.
+- Second, I created a logcal folder.
 - I initialized git on the local folder.
   - `git init`
 - Next, I created a README file.
